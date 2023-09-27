@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "awMFNEluJRPxteTt2EfMndGG9zwtYhitXUhuKmxBqnM=",
+  "Source": "FactoryServerAPI",
+  "BasePath": "_content/FactoryServerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
